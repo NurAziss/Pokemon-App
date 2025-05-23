@@ -1,4 +1,4 @@
-# 🧩 Pokemon Web App
+# 🧩 Pokemon App
 Aplikasi web sederhana berbasis React dan Vite yang memungkinkan pengguna untuk menjelajahi dunia Pokémon melalui antarmuka yang cepat dan responsif. Proyek ini memanfaatkan kekuatan Vite untuk pengembangan yang cepat dan efisien.
 
 link untuk melihat hasilnya
@@ -24,39 +24,12 @@ ESLint
 
 PokeAPI
 
-# 📦 Instalasi
-Klon repositori ini:
-
-bash
-Salin
-Edit
-git clone https://github.com/azis7797/Pokemon-Web-App.git
-Masuk ke direktori proyek:
-
-bash
-Salin
-Edit
-cd Pokemon-Web-App
-Instal dependensi:
-
-bash
-Salin
-Edit
-npm install
-# 🧪 Menjalankan Aplikasi
-Untuk menjalankan aplikasi dalam mode pengembangan:
-
-bash
-Salin
-Edit
-npm run dev
-Aplikasi akan berjalan di http://localhost:5173/ secara default.
 
 # 📁 Struktur Proyek
 plaintext
 Salin
 Edit
-Pokemon-Web-App/
+Pokemon-App/
 ├── public/             # File statis
 ├── src/                # Sumber kode utama
 │   ├── components/     # Komponen React
